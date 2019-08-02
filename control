@@ -1,9 +1,9 @@
 Package: fun.tylerd3v.customsiribg
 Name: CustomSiriBG
 Depends: mobilesubstrate
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
-Description: Add a custom image to Siri
+Description: Use any image as a background for Siri!
 Maintainer: TylerD3V
 Author: TylerD3V
 Section: Tweaks
