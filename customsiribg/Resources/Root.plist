@@ -11,18 +11,14 @@
 			<dict>
 				<key>cell</key>
 				<string>PSSwitchCell</string>
-				<key>default</key>
-				<false/>
-				<key>defaults</key>
-				<string>fun.tylerd3v.customsiribg</string>
-				<key>key</key>
-				<string>kEnabled</string>
 				<key>label</key>
 				<string>Enabled</string>
-			</dict>
-			<dict>
-				<key>cell</key>
-				<string>PSGroupCell</string>
+				<key>key</key>
+				<string>kEnabled</string>
+				<key>isGroupToggle</key>
+				<true/>
+				<key>defaults</key>
+				<string>fun.tylerd3v.customsiribg</string>
 			</dict>
 			<dict>
 				<key>big</key>
@@ -41,6 +37,8 @@
 				<string>kCustomImage</string>
 				<key>usesJPEG</key>
 				<true/>
+				<key>usesGIF</key>
+				<true/>
 				<key>compressionQuality</key>
 				<real>1.0</real>
 			</dict>
@@ -49,24 +47,54 @@
 				<string>PSGroupCell</string>
 			</dict>
 			<dict>
-				<key>big</key>
-				<true/>
-				<key>cellClass</key>
-				<string>HBTwitterCell</string>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
 				<key>label</key>
-				<string>Tyler</string>
-				<key>user</key>
-				<string>TylerD3V</string>
+				<string>Shrink Siri</string>
+				<key>key</key>
+				<string>kSmallSiri</string>
+				<key>isGroupToggle</key>
+				<true/>
+				<key>defaults</key>
+				<string>fun.tylerd3v.customsiribg</string>
 			</dict>
 			<dict>
-				<key>big</key>
-				<true/>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>label</key>
+				<string>Always Use Image</string>
+				<key>key</key>
+				<string>kAlwaysUse</string>
+				<key>defaults</key>
+				<string>fun.tylerd3v.customsiribg</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSGroupCell</string>
+			</dict>
+			<dict>
 				<key>cellClass</key>
 				<string>HBTwitterCell</string>
 				<key>label</key>
-				<string>Nepeta</string>
+				<string>Muirey (SmallSiri)</string>
+				<key>user</key>
+				<string>Muirey03</string>
+			</dict>
+			<dict>
+				<key>cellClass</key>
+				<string>HBTwitterCell</string>
+				<key>label</key>
+				<string>Nepeta (Astolfo)</string>
 				<key>user</key>
 				<string>NepetaDev</string>
+			</dict>
+			<dict>
+				<key>cellClass</key>
+				<string>HBTwitterCell</string>
+				<key>label</key>
+				<string>Tyler (CustomSiriBG)</string>
+				<key>user</key>
+				<string>TylerD3V</string>
 			</dict>
 		</array>
 		<key>title</key>
