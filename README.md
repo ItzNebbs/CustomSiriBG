@@ -11,10 +11,10 @@ Thanks to iKilledAppl3 for allowing me to implement his design to libimagepicker
 ## Credits
 Astolfo by @NepetaDev
 
+CustomSiriBG by @TylerD3V
+
 iKAImagePickerCell by @iKilledAppl3
 
 libimagepicker by @Muirey03
 
 SmallSiri by @Muirey03
-
-CustomSiriBG by @TylerD3V
