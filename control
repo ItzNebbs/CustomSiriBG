@@ -1,6 +1,6 @@
 Package: fun.tylerd3v.customsiribg
 Name: CustomSiriBG
-Depends: mobilesubstrate, firmware (>=11.0), com.muirey03.libimagepicker
+Depends: mobilesubstrate, firmware (>=11.0)
 Version: 2.0
 Architecture: iphoneos-arm
 Description: Use any image as a background for Siri!

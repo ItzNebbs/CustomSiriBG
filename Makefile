@@ -5,7 +5,6 @@ include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = CustomSiriBG
 $(TWEAK_NAME)_FILES = $(wildcard *.xm *.m)
-$(TWEAK_NAME)_LIBRARIES = imagepicker
 $(TWEAK_NAME)_LDFLAGS += -lCSPreferencesProvider
 $(TWEAK_NAME)_CFLAGS = -fobjc-arc
 
