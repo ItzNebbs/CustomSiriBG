@@ -1,15 +1,6 @@
 #import "CSProvider.h"
 #import "Tweak.h"
 
-static UISwipeGestureRecognizer *swipeUpGesture;
-static UISwipeGestureRecognizer *swipeDownGesture;
-static SiriUISiriStatusView *status;
-static SiriUIHelpButton *helpButton;
-static SUICFlamesView *flames;
-static _UIRemoteView *remote;
-static UIView *statusBar;
-static UIView *sbSuperview;
-
 %hook SUICFlamesView
 	%property (nonatomic, retain) UIImageView *customImage;
 	- (id)init {

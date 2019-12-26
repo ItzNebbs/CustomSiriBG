@@ -17,6 +17,15 @@ static bool hasExpanded = NO;
 static NSData *kCustomImage = nil;
 static CGFloat yChange = 0;
 
+static UISwipeGestureRecognizer *swipeUpGesture;
+static UISwipeGestureRecognizer *swipeDownGesture;
+static SiriUISiriStatusView *status;
+static SiriUIHelpButton *helpButton;
+static SUICFlamesView *flames;
+static _UIRemoteView *remote;
+static UIView *statusBar;
+static UIView *sbSuperview;
+
 @interface SUICFlamesView : UIView
 	@property (nonatomic, retain) UIImageView *customImage;
 @end
