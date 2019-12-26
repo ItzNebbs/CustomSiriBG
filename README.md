@@ -15,3 +15,7 @@ CustomSiriBG by @TylerD3V
 iKAImagePickerCell by @iKilledAppl3
 libimagepicker by @Muirey03
 SmallSiri by @Muirey03
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
