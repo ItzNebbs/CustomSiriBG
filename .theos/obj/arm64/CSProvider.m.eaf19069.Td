@@ -1,4 +1,4 @@
-/Users/tyler/Desktop/Tweaks/CustomSiriBG/.theos/obj/arm64e/CSProvider.m.eb767d5d.o: \
+/Users/tyler/Desktop/Tweaks/CustomSiriBG/.theos/obj/arm64/CSProvider.m.eaf19069.o: \
   CSProvider.m /Users/tyler/theos/Prefix.pch \
   /Users/tyler/theos/vendor/include/_Prefix/BackwardsCompat.h \
   /Users/tyler/theos/vendor/include/_Prefix/IOSMacros.h \

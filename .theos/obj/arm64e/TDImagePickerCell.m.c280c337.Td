@@ -1,4 +1,4 @@
-/Users/tyler/Desktop/Tweaks/CustomSiriBG/.theos/obj/arm64/TDImagePickerCell.m.60035066.o: \
+/Users/tyler/Desktop/Tweaks/CustomSiriBG/.theos/obj/arm64e/TDImagePickerCell.m.c280c337.o: \
   TDImagePickerCell.m /Users/tyler/theos/Prefix.pch \
   /Users/tyler/theos/vendor/include/_Prefix/BackwardsCompat.h \
   /Users/tyler/theos/vendor/include/_Prefix/IOSMacros.h \

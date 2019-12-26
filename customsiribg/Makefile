@@ -8,7 +8,7 @@ $(BUNDLE_NAME)_INSTALL_PATH = /Library/PreferenceBundles
 $(BUNDLE_NAME)_PRIVATE_FRAMEWORKS = Preferences
 $(BUNDLE_NAME)_EXTRA_FRAMEWORKS += CepheiPrefs
 $(BUNDLE_NAME)_LDFLAGS +=  -lCSPreferences
-$(BUNDLE_NAME)_CFLAGS = -fobjc-arc -Wno-error -Wno-unused-variable
+$(BUNDLE_NAME)_CFLAGS = -fobjc-arc -Wno-error -Wno-unused-variable -Wno-deprecated-declarations
 
 include $(THEOS_MAKE_PATH)/bundle.mk
 
