@@ -1,0 +1,10 @@
+Package: fun.tylerd3v.customsiribg
+Name: CustomSiriBG
+Depends: mobilesubstrate, firmware (>=11.0)
+Architecture: iphoneos-arm
+Description: Use any image as a background for Siri!
+Maintainer: TylerD3V
+Author: TylerD3V
+Section: Tweaks
+Version: 2.0
+Installed-Size: 288
